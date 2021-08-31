@@ -1,3 +1,4 @@
+![header](./header.png)
 <h3>I'm a web developer from New York City.</h3>
 
 - 🔭 I’m currently working on something awesome 🔥😎
