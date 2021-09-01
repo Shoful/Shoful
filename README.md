@@ -1,7 +1,7 @@
 ![header](./header.jpg)
 <h3>I'm a web developer from New York City.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/developers-gif-showcase.gif">
-- 👨‍💻 You can also check out my portfolio at https://Shoful.github.io/
+ - 👨‍💻 You can also check out my portfolio at https://Shoful.github.io/
 
 - 🔭 I’m currently working on something awesome 🔥😎
 
