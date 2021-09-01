@@ -1,5 +1,6 @@
 ![header](./header.jpg)
 <h3>I'm a web developer from New York City.</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 - 🔭 I’m currently working on something awesome 🔥😎
 
