@@ -5,7 +5,6 @@
 
 - 🔭 I’m currently working on something awesome 🔥😎
 
-- 🌱 I’m currently learning **ReactJs, React Native, NodeJs**
 
 - 📫 How to reach me **alom.shoful@gmail.com**
 
